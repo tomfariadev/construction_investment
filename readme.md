@@ -2,7 +2,7 @@
 Interactive data dashboard built with Python, Pandas, Plotly, and Streamlit to analyze long-term construction investment trends in Japan.
 
 ![Dashboard](dashboard.PNG)
-[![Streamlit App](https://tomfariadev-construction-investment-main-cxrus7.streamlit.app/)
+![Streamlit App](https://tomfariadev-construction-investment-main-cxrus7.streamlit.app/)
 
 ## Objective
 Understand how construction investment evolved over time and how financial resources are distributed between sectors, construction types, and public versus private participation.
