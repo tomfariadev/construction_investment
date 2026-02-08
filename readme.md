@@ -1,11 +1,11 @@
-### Construction Investment Dashboard (Japan)
-Interactive data dashboard built with Python, Pandas, Plotly and Streamlit to analyze construction investment trends in Japan.
+# Construction Investment Dashboard (Japan)
+Interactive data dashboard built with Python, Pandas, Plotly, and Streamlit to analyze long-term construction investment trends in Japan.
 
 ## Objective
-Understand how construction investment evolved over time and how resources are distributed between sectors, construction types, and public vs private participation.
+Understand how construction investment evolved over time and how financial resources are distributed between sectors, construction types, and public versus private participation.
 
 ## Key Insights Provided
-This dashboard answers:
+**This dashboard helps answer:**
 - Is the construction sector growing or shrinking?
 - Who invests more: Government or Private sector?
 - Is investment focused on residential or non-residential construction?
@@ -13,34 +13,43 @@ This dashboard answers:
 - Is the country building new infrastructure or focusing on renovations?
 
 ## Metrics
-# 1 - Total sales investment by year
-- Total construction investment for selected year
-# 2 - Growth X last year
-- Mostra se o setor está aquecido ou em crise
-- Economic trend indicator
-# 3-  % Architecture 
-- Share of investment in buildings
-# 4 - % Civil Engineering
-- Share of infrastructure investment
+**1. Total Investment by Year**
+- Total construction investment for the selected year.
 
-## Graphics
-# 1- Government X Private Investment Over Time
-- Sector participation over time
-- Mostra total + participação ao mesmo tempo
-- Permite ver a mudança de dependência ao longo dos anos
+**2. Growth vs Last Year**
+- Economic trend indicator showing whether the sector is expanding or contracting.
 
-# 2- Residential X Non-Residential Construction
-- Housing vs economic infrastructure
-- Casas e apartamentos vs prédios comerciais/indústria
- 
-# 3- Private Investment in Mining & Industry Over Time
-- Industrial sector strength
-- Mostra força industrial.
+**3. % Architecture**
+- Share of total investment allocated to building construction.
 
-# 4- Renovation vs New Construction Over Time
+**4. % Civil Engineering**
+- Share of total investment allocated to infrastructure projects.
+
+## Visualizations
+**1. Government vs Private Investment Over Time**
+- Sector participation across the years
+- Shows both total investment and proportional contribution
+- Helps identify changes in dependence on public or private funding
+
+**2. Residential vs Non-Residential Construction**
+- Housing versus economic infrastructure
+- Compares homes and apartments with commercial and industrial buildings
+
+**3. Private Investment in Mining & Industry Over Time**
+- Indicator of industrial sector strength
+- Shows long-term trends in productive economic investment
+
+**4. Renovation vs New Construction Over Time**
 - Market behavior (expansion vs maintenance)
-- Compara reforma vs construção nova, indica se o mercado está construindo novo ou reformando.
+- Compares renovation activity with new construction
+- Indicates whether the sector is expanding or focusing on upgrades
+
+## Tech Stack
+- **Python**
+- *Pandas*
+- *Plotly*
+- *Streamlit*
 
 ## Run Locally
-pip install -r requirements.txt
-streamlit run main.py
+'''bash pip install -r requirements.txt'''
+'''bash streamlit run main.py'''
