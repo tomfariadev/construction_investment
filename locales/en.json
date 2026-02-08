@@ -1,0 +1,20 @@
+{
+    "title": "Construction Investment Dashboard",
+    "about_title": "About this Project",
+    "about_text": "This interactive dashboard analyzes long-term construction investment trends in Japan using historical economic data. The objective is to understand how investments evolved over time and how resources are distributed between sectors, construction types, and public versus private participation.\n\nThe application highlights key macroeconomic indicators such as total investment growth, the balance between architecture and civil engineering, government versus private sector participation, and shifts between residential, industrial, and renovation activities.\n\nBuilt with Python, Pandas, Plotly, and Streamlit, this project demonstrates how data analysis can be transformed into an interactive data product that supports economic and infrastructure insights.",
+    "language": "Language",
+    "year": "Year",
+    "construction_type": "Construction Investment",
+    "value": "Value Type",
+    "total_investment": "Total Investment",
+    "growth": "Growth vs Last Year",
+    "architecture_vs_civil": "Architecture vs Civil Engineering",
+    "gov_vs_private": "Government vs Private Investment Over Time",
+    "res_vs_nonres": "Residential vs Non-Residential Construction Over Time",
+    "industry": "Private Investment in Mining & Industry Over Time",
+    "repairs": "Renovation vs New Construction Over Time",
+    "no_data": "No data found",
+    "architecture":"Architecture",
+    "civil_engineering": "Civil Engineering",
+    "in":"in"
+}
